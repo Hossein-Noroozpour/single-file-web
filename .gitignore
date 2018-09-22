@@ -1,0 +1,11 @@
+/target
+**/*.rs.bk
+*.lock
+*.txt
+*.css
+*.js
+*.html
+*.jpg
+*.jpeg
+*.png
+*.svg
